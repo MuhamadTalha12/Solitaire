@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\movementlogics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|solutionrelative:movementlogics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|c:\\users\\pmls\\desktop\\current study\\mid proj\\solitaire\\utilities\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|solutionrelative:utilities\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|solutionrelative:card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|solutionrelative:card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\carddeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|solutionrelative:carddeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\data structures\\tableau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|solutionrelative:data structures\\tableau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\data structures\\foundation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|solutionrelative:data structures\\foundation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\data structures\\waste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|solutionrelative:data structures\\waste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\data structures\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|solutionrelative:data structures\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\data structures\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|solutionrelative:data structures\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\win.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EECBA97-5781-4F80-B536-3B5DDC175E91}|Solitaire.csproj|solutionrelative:win.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:54:30.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Data Structures\\Stock.cs",
+              "RelativeDocumentMoniker": "Data Structures\\Stock.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Data Structures\\Stock.cs",
+              "RelativeToolTip": "Data Structures\\Stock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:53:45.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Waste.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Data Structures\\Waste.cs",
+              "RelativeDocumentMoniker": "Data Structures\\Waste.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Data Structures\\Waste.cs",
+              "RelativeToolTip": "Data Structures\\Waste.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:04:30.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Card.cs",
+              "RelativeDocumentMoniker": "Card.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Card.cs",
+              "RelativeToolTip": "Card.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAiwHYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:22:20.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Foundation.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Data Structures\\Foundation.cs",
+              "RelativeDocumentMoniker": "Data Structures\\Foundation.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Data Structures\\Foundation.cs",
+              "RelativeToolTip": "Data Structures\\Foundation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:06:47.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Data Structures\\Node.cs",
+              "RelativeDocumentMoniker": "Data Structures\\Node.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Data Structures\\Node.cs",
+              "RelativeToolTip": "Data Structures\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:49:33.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tableau.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Data Structures\\Tableau.cs",
+              "RelativeDocumentMoniker": "Data Structures\\Tableau.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Data Structures\\Tableau.cs",
+              "RelativeToolTip": "Data Structures\\Tableau.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAwwFsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:54:00.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Utilities\\Utils.cs",
+              "RelativeDocumentMoniker": "Utilities\\Utils.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Utilities\\Utils.cs",
+              "RelativeToolTip": "Utilities\\Utils.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAABwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:57:31.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovementLogics.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\MovementLogics.cs",
+              "RelativeDocumentMoniker": "MovementLogics.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\MovementLogics.cs",
+              "RelativeToolTip": "MovementLogics.cs",
+              "ViewState": "AQIAANIAAAAAAAAAAAAxwNoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:55:34.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Card.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Card.cs",
+              "RelativeDocumentMoniker": "Card.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Card.cs [Design]",
+              "RelativeToolTip": "Card.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:24:24.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:44:19.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CardDeck.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\CardDeck.cs",
+              "RelativeDocumentMoniker": "CardDeck.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\CardDeck.cs",
+              "RelativeToolTip": "CardDeck.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvx0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:13:40.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:19:49.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Win.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Win.cs",
+              "RelativeDocumentMoniker": "Win.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Win.cs",
+              "RelativeToolTip": "Win.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAhwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:29:59.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Current Study\\Mid Proj\\Solitaire\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAANQAAAAAAAAAAADwv0kAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T01:09:40.564Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
