@@ -35,7 +35,7 @@ Screenshots reference: [@MuhamadTalha12](https://github.com/MuhamadTalha12)
 ![Game Board](Images/InProgress.png)
 
 ### 3. Win Screen
-![Win Screen](Images/images.png)
+![Win Screen](Images/images.jpg)
 
 > Note: Add your win screenshot file as `Images/WinScreen.png` (or update the path above if you use a different filename).
   
