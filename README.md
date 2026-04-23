@@ -25,6 +25,20 @@ Klondike Solitaire is a classic card game, developed in C# using WinForms. The g
 
   - **Linked Lists**: Employed for managing tableau piles, allowing efficient insertion, removal, and traversal of cards in tableau piles.
 
+## Screenshots
+Screenshots reference: [@MuhamadTalha12](https://github.com/MuhamadTalha12)
+
+### 1. Start Screen
+![Start Screen](Images/StartInitial.png)
+
+### 2. Game Board
+![Game Board](Images/InProgress.png)
+
+### 3. Win Screen
+![Win Screen](Images/images.png)
+
+> Note: Add your win screenshot file as `Images/WinScreen.png` (or update the path above if you use a different filename).
+  
 ## Installation and Setup
 
 1. **Prerequisites**:
